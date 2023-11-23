@@ -85,6 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /* condensed 3 class into one*/
 .benefits {
     margin-bottom: 32px;
@@ -126,7 +127,7 @@ p {
 
 
 /* condensed triple h2 tag*/
-.mainbox h2{
+.mainbox h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -143,4 +144,51 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+/* Added responsiveness*/
+@media screen and (max-width: 768px) {
+    .header div {
+        float: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .header div ul li {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+
+    .header div ul li a {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+
+    .hero {
+        height: 400px;
+    }
+
+    .content {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .benefits {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .mainbox {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+    
 }
