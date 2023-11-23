@@ -34,6 +34,17 @@ This is my first challenge at UC Berkely boot camp, my task was to refractor the
 ---
 
 
+![Landing Page](./assets/images/Screenshot%202023-11-22%20at%209.20.29%20PM.png)
+
+
+
+
+
+
+
+---
+
+
 
 
 
@@ -116,7 +127,7 @@ the result of this was that I was able to cut down 100 line of codes and optimiz
 
 
 
-##### Added Alt to each img
+#### Added Alt to each img
 Making the page more accessible using alt so that we can provide our services to peoples with disabilities
 
 ---
@@ -124,12 +135,16 @@ Making the page more accessible using alt so that we can provide our services to
 
 
 
-##### Added responsiveness to CSS
+#### Added responsiveness to CSS
 Adding responsiveness make the page more dynamic across multiple device
+
+
+![Phone Screen Display](./assets/images/Screenshot%202023-11-22%20at%209.20.03%20PM.png)
+
 
 ---
 
-#### Technologies Used
+### Technologies Used
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
