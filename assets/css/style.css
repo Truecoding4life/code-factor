@@ -93,15 +93,12 @@ p {
 
 
 /* condensed 3 h3 tag into one*/
-
-
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* condensed 3 img tag into one*/
-
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -135,14 +132,15 @@ p {
 }
 
 
-
-.footer {
+/* instead of using foot class we use footer tag to 
+properly label footer*/
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
