@@ -1,10 +1,23 @@
 ## html-refactor
 
+### Resources
+[GitHub Repository](https://github.com/Truecoding4life/html-refactor)
+
+
+[Jay's Studio](https://truecoding4life.github.io/Jaystudio/)
+
+
+#### Table of contents
+- [Description](#description)
+- [Adding Semantic Element](#html-semantic-element)
+- [Code Refactor](#code-refactor)
+- [Added Accessibility](#added-alt-to-each-img)
+- [Added Responsive](#added-responsiveness-to-css)
 
 
 
 ### Description
-
+This is my first challenge at UC Berkely boot camp, my task was to refractor the code and make adding more accessibility. I went above and beyond and added responsiveness to smaller screen as well.
 
 #### HTML Semantic Element
 
@@ -69,3 +82,9 @@ the result of this was that I was able to cut down 100 line of codes and optimiz
     font-size: 36px;
 }
 ```
+
+##### Added Alt to each img
+Making the page more accessible using alt so that we can provide our services to peoples with disabilities
+
+##### Added responsiveness to CSS
+Adding responsiveness make the page more dynamic across multiple device
