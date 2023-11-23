@@ -3,6 +3,7 @@
 ##### Resources
 [GitHub Repository](https://github.com/Truecoding4life/html-refactor)
 
+[Deployed Link](https://truecoding4life.github.io/html-refactor/)
 
 [Jay's Studio](https://truecoding4life.github.io/Jaystudio/)
 
@@ -135,7 +136,7 @@ Making the page more accessible using alt so that we can provide our services to
 
 
 
-#### Added responsiveness to CSS
+### Added responsiveness to CSS
 Adding responsiveness make the page more dynamic across multiple device
 
 
@@ -162,7 +163,7 @@ Adding responsiveness make the page more dynamic across multiple device
 
 
 
-#### Credit
+### Credit
 This README was created based on the GOOD README guide.
 
 ---
