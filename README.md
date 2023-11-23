@@ -1,23 +1,41 @@
 ## html-refactor
 
-### Resources
+##### Resources
 [GitHub Repository](https://github.com/Truecoding4life/html-refactor)
 
 
 [Jay's Studio](https://truecoding4life.github.io/Jaystudio/)
 
 
-#### Table of contents
-- [Description](#description)
-- [Adding Semantic Element](#html-semantic-element)
-- [Code Refactor](#code-refactor)
-- [Added Accessibility](#added-alt-to-each-img)
-- [Added Responsive](#added-responsiveness-to-css)
+
+---
+
+
+
+##### Table of contents
+* [Description](#description)
+* [Adding Semantic Element](#html-semantic-element)
+* [Code Refactor](#code-refactor)
+* [Added Accessibility](#added-alt-to-each-img)
+* [Added Responsive](#added-responsiveness-to-css)
+* [Technologies Used](#technologies-used)
+
+---
+
+
+
 
 
 
 ### Description
-This is my first challenge at UC Berkely boot camp, my task was to refractor the code and make adding more accessibility. I went above and beyond and added responsiveness to smaller screen as well.
+
+This is my first challenge at UC Berkely boot camp, my task was to refractor the provided code and make the page better than before so let's see how I make this page more dynamic and responsive.
+
+---
+
+
+
+
 
 #### HTML Semantic Element
 
@@ -31,6 +49,14 @@ I implement footer and header tag to make use of html semantic elements
 
 </footer>
 ```
+---
+
+
+
+
+
+
+
 
 #### Code Refactor
 
@@ -82,9 +108,51 @@ the result of this was that I was able to cut down 100 line of codes and optimiz
     font-size: 36px;
 }
 ```
+---
+
+
+
+
+
+
 
 ##### Added Alt to each img
 Making the page more accessible using alt so that we can provide our services to peoples with disabilities
 
+---
+
+
+
+
 ##### Added responsiveness to CSS
 Adding responsiveness make the page more dynamic across multiple device
+
+---
+
+#### Technologies Used
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+[More info about HTML](https://www.w3schools.com/css/)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+[More Info about CSS3](https://www.w3schools.com/html/)
+
+---
+
+
+
+
+
+
+
+#### Credit
+This README was created based on the GOOD README guide.
+
+---
+
+
+
+
+This Website is made available by © Jay's Studio 
