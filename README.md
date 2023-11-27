@@ -18,7 +18,6 @@
 * [Adding Semantic Element](#html-semantic-element)
 * [Code Refactor](#code-refactor)
 * [Added Accessibility](#added-alt-to-each-img)
-* [Added Responsive](#added-responsiveness-to-css)
 * [Technologies Used](#technologies-used)
 
 ---
@@ -30,7 +29,7 @@
 
 ### Description
 
-This is my first challenge at UC Berkely boot camp, my task was to refractor the provided code and make the page better than before so let's see how I make this page more dynamic and responsive.
+This is my first challenge at UC Berkely boot camp, my task was to refractor the provided code and make the page better than before so let's see how I refractor this page and optimize it's accessibility.
 
 ---
 
@@ -133,17 +132,6 @@ Making the page more accessible using alt so that we can provide our services to
 
 ---
 
-
-
-
-### Added responsiveness to CSS
-Adding responsiveness make the page more dynamic across multiple device
-
-
-![Phone Screen Display](./assets/images/Screenshot%202023-11-22%20at%209.20.03%20PM.png)
-
-
----
 
 ### Technologies Used
 
