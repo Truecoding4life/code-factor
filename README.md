@@ -127,9 +127,12 @@ the result of this was that I was able to cut down 100 line of codes and optimiz
 
 
 
-#### Added Alt to each img
-Making the page more accessible using alt so that we can provide our services to peoples with disabilities
+#### Added alt to image for accessibility
+Making the page more accessible using alt so that we can provide our services to peoples with needs
 
+```
+<img src="./assets/images/cost-management.png" alt="a gear surrounded by dollar coins" />
+```
 ---
 
 
